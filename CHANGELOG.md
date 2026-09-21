@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.1 - 2026-09-21
+#### Bug Fixes
+- include local connect-go plugin - (aad4633) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-09-21
 #### Features
 - initial release - (e3058d8) - Nathan Blair
