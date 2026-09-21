@@ -1,0 +1,16 @@
+buf.build/gen/go/authaas/identity-data/protocolbuffers/go v1.36.12-20260920193332-0f21f78d34b1.2 h1:MR7ta97bV3zJTV3aHN7SEi9ZkkRBQEfxAZMjGugOi28=
+buf.build/gen/go/authaas/identity-data/protocolbuffers/go v1.36.12-20260920193332-0f21f78d34b1.2/go.mod h1:L39BVH9zg6Vh+MQY7nI+S+1is1ETXQXY3Xs/lGbGG58=
+buf.build/gen/go/authaas/identity/protocolbuffers/go v1.36.12-20260920174019-cb9ef3c3aa4c.2 h1:VcVJQZi6VEPkalVjo/RSkWyAnriLgOgzfo2csw0cbSM=
+buf.build/gen/go/authaas/identity/protocolbuffers/go v1.36.12-20260920174019-cb9ef3c3aa4c.2/go.mod h1:rDdpYTXLK9+NIevGNK7crsLovxjrQEgtJjFm7f+n7ME=
+buf.build/gen/go/authaas/token/protocolbuffers/go v1.36.12-20260920174249-1b86e4d5c13a.2 h1:YhAX4fOtUtFr0UWtqC9ajv6HPW6osSOxwqUl5kr5alc=
+buf.build/gen/go/authaas/token/protocolbuffers/go v1.36.12-20260920174249-1b86e4d5c13a.2/go.mod h1:y7yBxUGLS3fYgWYiMDDzmLr7jx2iiVz4vxyrqn/djtw=
+buf.build/gen/go/authaas/webauthn-credential/protocolbuffers/go v1.36.12-00000000000000-f80387715262.2 h1:r5nLD+CSAdw4d6FmS7XoPEq+mLt6wTmn9Q93l3NHa+g=
+buf.build/gen/go/authaas/webauthn-credential/protocolbuffers/go v1.36.12-00000000000000-f80387715262.2/go.mod h1:zqrjgDwbsM5UbMuABW+/8H+qcylvHHfzce3IhJ2DkEY=
+buf.build/gen/go/authaas/webauthn-data/protocolbuffers/go v1.36.12-20260920222759-7d33127b8e42.2 h1:VItDfXuMZ0XM693PlFQRwSGwoiwrRGpiem8LOiCnLSY=
+buf.build/gen/go/authaas/webauthn-data/protocolbuffers/go v1.36.12-20260920222759-7d33127b8e42.2/go.mod h1:645rpSXUsFhX1eve65EKNJrr2LcSJhLHMYwP4P2iOO4=
+connectrpc.com/connect/v2 v2.0.0-alpha.1 h1:T0Fk30RdHUG8Z8K5/ezkhGclsuoPoNp7ekK/YWjuB9Q=
+connectrpc.com/connect/v2 v2.0.0-alpha.1/go.mod h1:h651FA//hXdrOxDQ1Hiwte02sVqSPt+XY1Mj0kpLToI=
+github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
+github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
+google.golang.org/protobuf v1.36.12 h1:pJOKDDOyeXErUroCihFAd5LQuwXBSpVnKGrj5o/fwxc=
+google.golang.org/protobuf v1.36.12/go.mod h1:HTf+CrKn2C3g5S8VImy6tdcUvCska2kB7j23XfzDpco=

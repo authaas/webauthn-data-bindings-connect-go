@@ -1,0 +1,29 @@
+version: v2
+
+managed:
+  enabled: true
+  override:
+    - file_option: go_package_prefix
+      module: buf.build/authaas/webauthn-data
+      value: buf.build/gen/go/authaas/webauthn-data/protocolbuffers/go
+    - file_option: go_package_prefix
+      module: buf.build/authaas/identity-data
+      value: buf.build/gen/go/authaas/identity-data/protocolbuffers/go
+    - file_option: go_package_prefix
+      module: buf.build/authaas/webauthn-credential
+      value: buf.build/gen/go/authaas/webauthn-credential/protocolbuffers/go
+    - file_option: go_package_prefix
+      module: buf.build/authaas/identity
+      value: buf.build/gen/go/authaas/identity/protocolbuffers/go
+    - file_option: go_package_prefix
+      module: buf.build/authaas/token
+      value: buf.build/gen/go/authaas/token/protocolbuffers/go
+
+inputs:
+  - module: buf.build/authaas/webauthn-data:0.2.0
+
+plugins:
+  - local: protoc-gen-connect-go
+    out: module
+    opt:
+      - paths=source_relative
